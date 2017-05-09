@@ -1,5 +1,5 @@
 # VR View 360 Video with Hotspot Navigation theme
-This theme comes pre-installed with the <a href="https://github.com/IdeaSpaceVR/IdeaSpace">IdeaSpaceVR CMS</a>. It integrates the VR View for the Web JavaScript API by Google.
+This theme is pre-installed with the latest <a href="https://github.com/IdeaSpaceVR/IdeaSpace">IdeaSpaceVR</a> version. It integrates the VR View for the Web JavaScript API by Google.
 
 ![VR View 360 Video with Hotspot Navigation](screenshot.png)
 
